@@ -1,5 +1,5 @@
 Project: book-exercise
-Authors: Samuel Lebeau-Seary
+Authors: Samuel Lebeau-Seary and Rnrsp
 
 This project is part of the material for the book
 
